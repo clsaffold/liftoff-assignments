@@ -34,12 +34,11 @@ PF Log
 Interactive Change Package (Only Database for Purposes of Liftoff)
 
 ### Technologies
-Java
-Spring Boot
+C#
+Razor
 MySQL
 SQL
-Hibernate
-Thymeleaf templates
+Web APIs
 Security Assertion Markup Language (SAML) Single Sign-on (SSO) miniOrange
 DevExpress UI
 
