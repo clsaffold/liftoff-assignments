@@ -7,18 +7,18 @@ This application will bring together widely accepted Advanced Primary Care best 
 A standard set of evidence-based comprehensive care aims, driver and tactics with corresponding measures will be developed and incorporated into an existing Measures Database.
 Practices will be able to enter their rapid cycle plan-do-study-act (PDSA) project details, tying them with their pre-defined aims and capturing their intended impacts through measures.
 Practice quality improvement facilitators (PF) will be able to log their interactions with practices and connect their notes with practice PDSA entries.
-Finally, practices or PFs will be able to upload .cvs files containing measures to be ingested into the existing  Measures Database to demonstrate the results of practice change initiatives.
+Finally, practices or PFs will be able to upload .csv files containing measures to be ingested into the existing  Measures Database to demonstrate the results of practice change initiatives.
 No other fully comprehensive and widely available tool exists to support primary care practices in their efforts to demonstrate return on investment and value of work to continually improve care delivery.
 This suite of features will advance the ability of primary care to show tremendous reduction of total cost of care along with improved quality when the investment primary care is increased.
-(For liftoff I am focused on PDSA Tracker and cvs file import/data ingesting)
+(For liftoff I am focused on PDSA Tracker and .csv file import/data ingesting)
 
 ### Features
 PDSA Tracker (Main Project)
-	User Login: SSO authentication with our Drupal-based user directory based on email address. Each user will have a profile page and dashboard of their PDSAs
-	Create PDSA: Users will be able to create a PDSA entry when logged in
-	Edit PDSA: Users will be able to edit a PDSA entry when logged in
-	Append PDSA: Users will be able to append a PDSA entry when logged in
+	User Login: User will be able to log-in by creating accounts in the system or through a token passed from healthteamworks.org drupal membership platform using SAML SSO authentication
+				Each user will have a profile page and dashboard of their PDSAs
+	Create, edit, append and delete PDSA: Users will be able to create,edit, append and delete their PDSA entries when logged in
 	Set Privacy of PDSA: Users would be able to keep their PDSAs private, share them with others in their organization/company or make them publicly viewable
+	View PDSAs: Users will be able to view their own PDSAs on their dashboard
 	Search: Users will be able to search their own PDSAs and any shared with their org/company and all that are public viewable
 	Favorite: Users will be able to mark PDSAs they want to follow as a favorite. These will show up on the user dashboard. 
 	Analytics: Each PDSA will display the number of users who have marked it as a favorite.
@@ -49,4 +49,3 @@ Add data visualization to the PDSA page based on time-limited entries
 
 ### Project Tracker
 https://trello.com/invite/b/Sw5iDqci/8988daab0f1de394ec5b17d63b0a29c5/liftoff
-
