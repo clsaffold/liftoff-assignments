@@ -10,12 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-.../blob/master/P3-Project_Planning/10PDSA%20Search.png
-
-.../2Login.png
-.../3Register.png
-.../4UserProfile.png
-.../5AddPDSA.png
+../1Home.png
+../2Login.png
+../3Register.png
+../4UserProfile.png
+../5AddPDSA.png
 
 
 
