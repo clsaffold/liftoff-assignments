@@ -38,14 +38,19 @@ C#
 Razor
 MySQL
 SQL
+ASP.NET Identity
 Web APIs
 Security Assertion Markup Language (SAML) Single Sign-on (SSO) miniOrange
 DevExpress UI
 
 ### What I'll Have to Learn
-How to make one drop-down field offer options based on what was selected in the previous field
+How to set up authentication and authorization in the app for new users and four authorization levels
+		https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data?view=aspnetcore-5.0
+How to make one drop-down field's options populate based on what was selected in the previous field
 Transform data while importing to properly format all entries in all fields (Advanced)
 Add data visualization to the PDSA page based on time-limited entries
+Enter data using forms in the app that save the information into two separate databases or how to send all data to one database and then share certain 
+	data by API to another database 
 
 ### Project Tracker
-https://trello.com/invite/b/Sw5iDqci/8988daab0f1de394ec5b17d63b0a29c5/liftoff
+https://trello.com/invite/b/eulg84Wd/1daed32e38735fe81e8521e92c9b9969/cecilia-liftoff-project-board
