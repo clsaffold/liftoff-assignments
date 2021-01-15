@@ -26,4 +26,4 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Repo Link
 
-[]https://github.com/clsaffold/pdsa-tracker
+[PDSA Tracker Repo](https://github.com/clsaffold/pdsa-tracker)
